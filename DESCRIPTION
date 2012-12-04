@@ -1,0 +1,10 @@
+Package: test_package
+Type: Package
+Title: Make a simple computation
+Version: 1.0
+Date: 2012-12-04
+Author: Jingyi Jessica Li
+Maintainer: Jingyi Jessica Li <jli@stat.berkeley.edu>
+Description: It computes a simple linear regression
+License: What license is it under?
+Depends: R (>= 2.14.1)
